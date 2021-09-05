@@ -1,0 +1,16 @@
+.container {
+  background-color: #505050;
+  padding: 1.2rem;
+}
+
+.featuredContent {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 60%;
+  z-index: 10;
+  padding: 10px 20px;
+  background: #fff;
+  mix-blend-mode: difference;
+}
